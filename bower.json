@@ -1,0 +1,28 @@
+{
+  "name": "bower-bootswatch",
+  "authors": [
+    "lunhg@gmail.com"
+  ],
+  "description": "bootswatch plugin for bower",
+  "main": [
+      "assets/css/_simplex.scss",
+      "assets/css/simplex/_variables.scss",
+      "assets/css/simplex/bootswatch.scss"
+  ],
+  "keywords": [
+      "styles"
+  ],
+  "license": "CC 4.0",
+  "homepage": "lunhg.github.io/bower-bootswatch",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/lungh/bower-bootswatch.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
