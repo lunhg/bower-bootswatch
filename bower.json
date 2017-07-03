@@ -1,0 +1,25 @@
+{
+  "name": "bower-bootswatch",
+  "authors": [
+    "lunhg@gmail.com"
+  ],
+  "description": "wavepot plugin for bower",
+  "main": ["assets/css/simplex.scss"],
+  "keywords": [
+    "sass",
+    "styesheets"
+  ],
+  "license": "CC 4.0",
+  "homepage": "lunhg.github.io/bower-bootswatch",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/lungh/bower-bootswatch.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
